@@ -74,6 +74,12 @@ Third-party security audits, zero-trust architecture validation, expansion into 
 
 ---
 
+## Documentation
+
+- [Technical Overview](./TECHNICAL_OVERVIEW.md) — Architecture, current infrastructure state, hardware reference, and deployment roadmap.
+
+---
+
 ## License
 
 GNU General Public License v3.0. See [LICENSE](./LICENSE) for details.
